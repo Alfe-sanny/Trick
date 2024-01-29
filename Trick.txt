@@ -5,3 +5,4 @@ RJR-RAKIB=1√0√3√4√1√u√0√_√a√3√4√1
 10383|FD5FBA9CE528459E98EA
 =[10383]=
 =[10237]=
+srver=ON=srver
